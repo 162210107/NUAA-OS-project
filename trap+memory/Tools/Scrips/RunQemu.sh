@@ -1,0 +1,1 @@
+qemu-system-riscv64 -machine virt -m 128M -nographic -bios ../../SBI/opensbi-qemu.elf -kernel ../../Build/OS16.elf
