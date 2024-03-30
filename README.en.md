@@ -1,22 +1,22 @@
 # os学习
 
 #### Description
-针对内核实现所学习的
+针对内核实现比赛所学习的代码，包括自己修改
 
 #### Software Architecture
 Software architecture description
 
 #### Installation
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  wsl2
+2.  riscv64
+3.  qemu
 
 #### Instructions
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  运行Tools中的./Build.sh
+2.  在运行./RunQemu.sh
+3.  记得在wsl界面中
 
 #### Contribution
 
